@@ -1,1 +1,1 @@
-# bioinform-tica-pureba
+# bioinformatica
